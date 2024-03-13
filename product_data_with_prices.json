@@ -1,0 +1,1027 @@
+[
+    {
+        "product_name": "smlive.ro",
+        "initial_price": "154lei",
+        "reduced_price": "129lei"
+    },
+    {
+        "product_name": "antena24.ro",
+        "initial_price": "360lei",
+        "reduced_price": "250lei"
+    },
+    {
+        "product_name": "zona-it.ro",
+        "initial_price": "360lei",
+        "reduced_price": "250lei"
+    },
+    {
+        "product_name": "r3media.ro",
+        "initial_price": "360lei",
+        "reduced_price": "320lei"
+    },
+    {
+        "product_name": "money.ro",
+        "initial_price": "650lei",
+        "reduced_price": "490lei"
+    },
+    {
+        "product_name": "eqynews.ro",
+        "initial_price": "350lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "f5xmedia.ro",
+        "initial_price": "350lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "blogandroll.ro",
+        "initial_price": "350lei",
+        "reduced_price": "250lei"
+    },
+    {
+        "product_name": "parintiautentici.ro",
+        "initial_price": "350lei",
+        "reduced_price": "250lei"
+    },
+    {
+        "product_name": "capitalaverde.ro",
+        "initial_price": "350lei",
+        "reduced_price": "250lei"
+    },
+    {
+        "product_name": "ghidulde10.ro",
+        "initial_price": "190lei",
+        "reduced_price": "90lei"
+    },
+    {
+        "product_name": "femeiadeastazi.ro",
+        "initial_price": "350lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "meritacitit.ro",
+        "initial_price": "350lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "gazetadebucuresti.ro",
+        "initial_price": "350lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "expresspress.ro",
+        "initial_price": "350lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "Comunicat de presa risco.ro",
+        "initial_price": "150lei",
+        "reduced_price": "90lei"
+    },
+    {
+        "product_name": "businesscover.ro",
+        "initial_price": "350lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "casoteca.ro",
+        "initial_price": "350lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "ziaristi.ro",
+        "initial_price": "990lei",
+        "reduced_price": "790lei"
+    },
+    {
+        "product_name": "PREMIUM comunicatedepresa.ro",
+        "initial_price": "240lei",
+        "reduced_price": "99lei"
+    },
+    {
+        "product_name": "puterea.ro",
+        "initial_price": "990lei",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "domnuroz.ro",
+        "initial_price": "690lei",
+        "reduced_price": "490lei"
+    },
+    {
+        "product_name": "psychologies.ro",
+        "initial_price": "490lei",
+        "reduced_price": "350lei"
+    },
+    {
+        "product_name": "bzi.ro",
+        "initial_price": "490lei",
+        "reduced_price": "460lei"
+    },
+    {
+        "product_name": "povesteata.eu",
+        "initial_price": "99lei",
+        "reduced_price": "45lei"
+    },
+    {
+        "product_name": "firme365.ro",
+        "initial_price": "99lei",
+        "reduced_price": "55lei"
+    },
+    {
+        "product_name": "locuridinromania.ro",
+        "initial_price": "749lei",
+        "reduced_price": "269lei"
+    },
+    {
+        "product_name": "mamadeprofesie.ro",
+        "initial_price": "749lei",
+        "reduced_price": "269lei"
+    },
+    {
+        "product_name": "concept-casa.ro",
+        "initial_price": "499lei",
+        "reduced_price": "350lei"
+    },
+    {
+        "product_name": "gazetadambovitei.ro",
+        "initial_price": "749lei",
+        "reduced_price": "299lei"
+    },
+    {
+        "product_name": "top10produse.ro",
+        "initial_price": "749lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "contract-auto.ro",
+        "initial_price": "299lei",
+        "reduced_price": "249lei"
+    },
+    {
+        "product_name": "darkpassion.ro",
+        "initial_price": "299lei",
+        "reduced_price": "249lei"
+    },
+    {
+        "product_name": "expertmarketingonline.ro",
+        "initial_price": "390lei",
+        "reduced_price": "299lei"
+    },
+    {
+        "product_name": "aguritza.ro",
+        "initial_price": "149lei",
+        "reduced_price": "99lei"
+    },
+    {
+        "product_name": "bucurion.ro",
+        "initial_price": "149lei",
+        "reduced_price": "99lei"
+    },
+    {
+        "product_name": "devorbalacafea.ro",
+        "initial_price": "299lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "parintidenota10.ro",
+        "initial_price": "299lei",
+        "reduced_price": "199lei"
+    },
+    {
+        "product_name": "anamariavasile.com",
+        "initial_price": "299lei",
+        "reduced_price": "199lei"
+    },
+    {
+        "product_name": "estisanatos.com",
+        "initial_price": "299lei",
+        "reduced_price": "199lei"
+    },
+    {
+        "product_name": "radiosimplu.ro",
+        "initial_price": "199lei",
+        "reduced_price": "165lei"
+    },
+    {
+        "product_name": "ziarobiectiv.ro",
+        "initial_price": "369lei",
+        "reduced_price": "249lei"
+    },
+    {
+        "product_name": "cluju.ro",
+        "initial_price": "369lei",
+        "reduced_price": "249lei"
+    },
+    {
+        "product_name": "ieftinici.ro",
+        "initial_price": "369lei",
+        "reduced_price": "249lei"
+    },
+    {
+        "product_name": "caietul-cristinei.ro",
+        "initial_price": "369lei",
+        "reduced_price": "269lei"
+    },
+    {
+        "product_name": "bursa.ro",
+        "initial_price": "1,990lei",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "monitorulexpres.ro",
+        "initial_price": "350lei",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "hometalks.ro",
+        "initial_price": "299lei",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "slatinabuzz.ro",
+        "initial_price": "169lei",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "moneybuzz.ro",
+        "initial_price": "490lei",
+        "reduced_price": "299lei"
+    },
+    {
+        "product_name": "curierulnational.ro",
+        "initial_price": "490lei",
+        "reduced_price": "349lei"
+    },
+    {
+        "product_name": "gazetadebistrita.ro",
+        "initial_price": "299lei",
+        "reduced_price": "249lei"
+    },
+    {
+        "product_name": "gazetadecluj.ro",
+        "initial_price": "299lei",
+        "reduced_price": "249lei"
+    },
+    {
+        "product_name": "suceavalive.ro",
+        "initial_price": "299lei",
+        "reduced_price": "199lei"
+    },
+    {
+        "product_name": "crestinortodox.ro",
+        "initial_price": "690lei",
+        "reduced_price": "590lei"
+    },
+    {
+        "product_name": "animale.ro",
+        "initial_price": "479lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "calificativ.ro",
+        "initial_price": "479lei",
+        "reduced_price": "290lei"
+    },
+    {
+        "product_name": "studentie.ro",
+        "initial_price": "479lei",
+        "reduced_price": "369lei"
+    },
+    {
+        "product_name": "hit.ro",
+        "initial_price": "299lei",
+        "reduced_price": "249lei"
+    },
+    {
+        "product_name": "Askmen.ro",
+        "initial_price": "260lei",
+        "reduced_price": "250lei"
+    },
+    {
+        "product_name": "myjob.ro",
+        "initial_price": "990lei",
+        "reduced_price": "349lei"
+    },
+    {
+        "product_name": "clopotel.ro",
+        "initial_price": "990lei",
+        "reduced_price": "590lei"
+    },
+    {
+        "product_name": "copilul.ro",
+        "initial_price": "990lei",
+        "reduced_price": "590lei"
+    },
+    {
+        "product_name": "ele.ro",
+        "initial_price": "492lei",
+        "reduced_price": "349lei"
+    },
+    {
+        "product_name": "acasa.ro",
+        "initial_price": "469lei",
+        "reduced_price": "399lei"
+    },
+    {
+        "product_name": "jurnalulnational.ro",
+        "initial_price": "492lei",
+        "reduced_price": "350lei"
+    },
+    {
+        "product_name": "financiarul.ro",
+        "initial_price": "492lei",
+        "reduced_price": "350lei"
+    },
+    {
+        "product_name": "radardemedia.ro",
+        "initial_price": "320lei",
+        "reduced_price": "99lei"
+    },
+    {
+        "product_name": "ziarulevenimentul.ro",
+        "initial_price": "649lei",
+        "reduced_price": "370lei"
+    },
+    {
+        "product_name": "infocasasigradina.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "suntfericita.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "sanatateafemeilor.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "alegesanatos.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "sanatatesistaredebine.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "e-juridic.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "portalpfa.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "infoinstitutii.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "clublegislatiamuncii.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "portal-resurseumane.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "legislatiamuncii.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "fiscalitatea.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "infotva.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "clubcontabilitate.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "conta.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "contabilul.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "portalinvatamant.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "agroromania.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "marketingportal.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "afacerilacheie.net",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "ideideafaceri.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "manager.ro",
+        "initial_price": "649lei",
+        "reduced_price": "469lei"
+    },
+    {
+        "product_name": "livepr.ro",
+        "initial_price": "90lei",
+        "reduced_price": "45lei"
+    },
+    {
+        "product_name": "ghid-constructii.ro",
+        "initial_price": "269lei",
+        "reduced_price": "169lei"
+    },
+    {
+        "product_name": "aradeni.ro",
+        "initial_price": "149lei",
+        "reduced_price": "85lei"
+    },
+    {
+        "product_name": "clujeni.com",
+        "initial_price": "149lei",
+        "reduced_price": "85lei"
+    },
+    {
+        "product_name": "timisoreni.ro",
+        "initial_price": "149lei",
+        "reduced_price": "85lei"
+    },
+    {
+        "product_name": "bucuresteni.ro",
+        "initial_price": "149lei",
+        "reduced_price": "85lei"
+    },
+    {
+        "product_name": "roportal.ro",
+        "initial_price": "149lei",
+        "reduced_price": "75lei"
+    },
+    {
+        "product_name": "dbonline.ro",
+        "initial_price": "290lei",
+        "reduced_price": "190lei"
+    },
+    {
+        "product_name": "Ziare.com",
+        "initial_price": "899lei",
+        "reduced_price": "699lei"
+    },
+    {
+        "product_name": "dorderomanesc.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "deluxe-lifestyle.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "idealboutique.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "casutacucadouri.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "infotgv.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "concurslg.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "codulzambaccian.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "sorinmoisa.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "nudaspaga.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "werock.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "razvanrat.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "mmitrea.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "papen.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "bacauinfo.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "obiectiv-romania.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "primalove.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "orasulminunilor.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "ziarulalb.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "suceavapenet.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "romaniiauinitiativa.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "mondenonline.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "legal-news.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "jurnaluldebotosani.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "gooolsport.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "estradamaramureseana.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "cronix.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "cp-b.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "cioaravopsita.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "carieremedia.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "bmw-motorag.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "asistentapentruconsumatori.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "articole-zoombiz.ro",
+        "initial_price": "199lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "IncisivDeMures",
+        "initial_price": "100lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "IncisivDeBistrita",
+        "initial_price": "100lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "IncisivDeCluj",
+        "initial_price": "100lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "Banateanul",
+        "initial_price": "249lei",
+        "reduced_price": "99lei"
+    },
+    {
+        "product_name": "IncisivDeConstanta",
+        "initial_price": "100lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "ValceaAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "TimisAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "SibiuAzi",
+        "initial_price": "49lei",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "OradeadeAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "MuresAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "MaramuresAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "JiulAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "IasiAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "Capitala24",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "BuzauAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "GalatiAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "DoljAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "ClujuldeAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "BrailaMea",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "BacauAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "ArgesAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "AradulDeAzi",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "AlbaMea",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "PrahovaMea",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "BrașovulMeu",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "ConstanțaMea",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "CriteriulFinanciar",
+        "initial_price": "249lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "ElectroDiva",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "ZiarePH",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "CasaEst",
+        "initial_price": "249lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "ALLux",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "ComisarulDePrahova.ro",
+        "initial_price": "249lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "IncisivDePrahova.ro",
+        "initial_price": "249lei",
+        "reduced_price": "169lei"
+    },
+    {
+        "product_name": "Nationalul",
+        "initial_price": "249lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.rocadia.com",
+        "initial_price": "249lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.criteriul.ro",
+        "initial_price": "249lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "Bacau",
+        "initial_price": "499lei",
+        "reduced_price": "372lei"
+    },
+    {
+        "product_name": "www.ziarultransilvaniei.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.ziarulbanatului.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.ziarulmoldovei.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.tgjiu.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.antreprenori.eu",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.cjnews.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.stirigorj.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.agentiepr.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.ziaregorj.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.stiritimis.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.voceaviitorului.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.cpresa.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.comunicatdepresa.com",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.ultimelestirionline.ro",
+        "initial_price": "149lei",
+        "reduced_price": "89lei"
+    },
+    {
+        "product_name": "www.pareri.eu",
+        "initial_price": "149lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "www.stiritimisoara.com",
+        "initial_price": "149lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "www.timisoara.biz",
+        "initial_price": "149lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "www.presaonline.info",
+        "initial_price": "149lei",
+        "reduced_price": "79lei"
+    },
+    {
+        "product_name": "RomaniaLibera",
+        "initial_price": "799lei",
+        "reduced_price": "649lei"
+    },
+    {
+        "product_name": "HotNews",
+        "initial_price": "2,400lei",
+        "reduced_price": "1,990lei"
+    },
+    {
+        "product_name": "Startupcafe",
+        "initial_price": "1,500lei",
+        "reduced_price": "790lei"
+    },
+    {
+        "product_name": "Agerpres",
+        "initial_price": "399lei",
+        "reduced_price": "149lei"
+    },
+    {
+        "product_name": "www.adrianstef.ro",
+        "initial_price": "149lei",
+        "reduced_price": "38lei"
+    },
+    {
+        "product_name": "www.mariusciocan.ro",
+        "initial_price": "149lei",
+        "reduced_price": "41lei"
+    },
+    {
+        "product_name": "www.it-review.ro",
+        "initial_price": "419lei",
+        "reduced_price": "69lei"
+    },
+    {
+        "product_name": "www.victoriaonline.ro",
+        "initial_price": "149lei",
+        "reduced_price": "49lei"
+    },
+    {
+        "product_name": "www.24monden.net",
+        "initial_price": "149lei",
+        "reduced_price": "99lei"
+    },
+    {
+        "product_name": "FoodStory",
+        "initial_price": "3,500lei",
+        "reduced_price": "1,014lei"
+    },
+    {
+        "product_name": "InCont",
+        "initial_price": "990lei",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "DeBarbati",
+        "initial_price": "990lei",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "Perfecte",
+        "initial_price": "685lei",
+        "reduced_price": "569lei"
+    },
+    {
+        "product_name": "Yoda",
+        "initial_price": "1,200lei",
+        "reduced_price": "749lei"
+    },
+    {
+        "product_name": "ProTV",
+        "initial_price": "Informație indisponibilă",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "Jurnalul",
+        "initial_price": "Informație indisponibilă",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "Antena3",
+        "initial_price": "Informație indisponibilă",
+        "reduced_price": "fără reducere"
+    },
+    {
+        "product_name": "StirilePROTV",
+        "initial_price": "Informație indisponibilă",
+        "reduced_price": "fără reducere"
+    }
+]
